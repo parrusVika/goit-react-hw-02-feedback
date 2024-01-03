@@ -1,0 +1,9 @@
+.iteam {
+    display: block;
+    align-items: center;
+}
+.title {
+    color: #010101;
+    text-align: center;
+    font-size: 25px;
+}
